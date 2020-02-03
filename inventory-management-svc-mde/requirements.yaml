@@ -1,0 +1,4 @@
+dependencies:
+- name: inventory-management-svc-mde
+  version: 1.0.0-1
+  repository: http://artifactory.mooc-four-ocp-cluster-0143c5dd31acd8e030a1d6e0ab1380e3-0000.sjc04.containers.appdomain.cloud/artifactory/generic-local/
